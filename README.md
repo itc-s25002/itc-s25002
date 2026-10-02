@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi github 👋
 
 <!--
 **itc-s25002/itc-s25002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
