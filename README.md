@@ -22,3 +22,5 @@ Webアプリケーションの開発に興味があり、HTMLやJavascriptなど
 - 令和 8年 8月24日 サーティファイ Javaプログラミング能力認定試験 3
 
 ## 作品
+
+https://github.com/itc-s25002/SF6MiniTraining
